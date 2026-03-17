@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Turn Up the Music",
+  "base_artist": "Chris Brown",
+  "createdAt": "2026-03-17T13:24:56.762756Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Turn Up the Radio",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/01_Turn_Up_the_Radio_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Turn Up the Sun",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/02_Turn_Up_the_Sun_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Turn Up the Night - 2021 Remaster",
+      "artist": "Black Sabbath",
+      "has_synced": false,
+      "path": "select/03_Turn_Up_the_Night_-_2021_Remaster_Black_Sabbath.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Turn Up the Night (2021 remaster)",
+      "artist": "Black Sabbath",
+      "has_synced": false,
+      "path": "select/04_Turn_Up_the_Night_(2021_remaster)_Black_Sabbath.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Turn Up the Night",
+      "artist": "Black Sabbath",
+      "has_synced": true,
+      "path": "select/05_Turn_Up_the_Night_Black_Sabbath.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Turn Up the Music",
+      "artist": "Chris Brown",
+      "has_synced": true,
+      "path": "select/06_Turn_Up_the_Music_Chris_Brown.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Turn Up the Radio",
+      "artist": "Autograph",
+      "has_synced": true,
+      "path": "select/07_Turn_Up_the_Radio_Autograph.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Turn Up the Radio (Demo Version)",
+      "artist": "Autograph",
+      "has_synced": false,
+      "path": "select/08_Turn_Up_the_Radio_(Demo_Version)_Autograph.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Turn Up the Radio (Re-Recorded)",
+      "artist": "Autograph",
+      "has_synced": false,
+      "path": "select/09_Turn_Up_the_Radio_(Re-Recorded)_Autograph.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Turn Up The Dial",
+      "artist": "Simian Mobile Disco",
+      "has_synced": true,
+      "path": "select/10_Turn_Up_The_Dial_Simian_Mobile_Disco.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Turn Up The Music",
+      "artist": "Sammy Hagar",
+      "has_synced": false,
+      "path": "select/11_Turn_Up_The_Music_Sammy_Hagar.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Turn Up the Radio",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/12_Turn_Up_the_Radio_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Turn Up the Night (2009 Remaster)",
+      "artist": "Black Sabbath",
+      "has_synced": false,
+      "path": "select/13_Turn_Up_the_Night_(2009_Remaster)_Black_Sabbath.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Turn Up The Sunshine - From 'Minions: The Rise of Gru' Soundtrack",
+      "artist": "Diana Ross feat. Tame Impala",
+      "has_synced": true,
+      "path": "select/14_Turn_Up_The_Sunshine_-_From_'Minions__The_Rise_of_Gru'_Soundtrack_Diana_Ross_feat._Tame_Impala.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Turn Up The Sunshine (From 'Minions: The Rise of Gru' Soundtrack)",
+      "artist": "Diana Ross, Tame Impala",
+      "has_synced": true,
+      "path": "select/15_Turn_Up_The_Sunshine_(From_'Minions__The_Rise_of_Gru'_Soundtrack)_Diana_Ross,_Tame_Impala.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Turn Up The Music",
+      "artist": "Chris Brown",
+      "has_synced": false,
+      "path": "select/pl_01_Turn_Up_The_Music_Chris_Brown.txt"
+    }
+  ]
+}
